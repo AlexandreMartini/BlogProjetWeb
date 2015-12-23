@@ -1,0 +1,5 @@
+alex_blog:
+    resource: "@AlexBlogBundle/Resources/config/routing.yml"
+    prefix:   /blog
+
+
